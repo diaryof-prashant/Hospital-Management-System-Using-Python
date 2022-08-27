@@ -1,0 +1,10 @@
+Before executing anything, make sure that you have MySQL and Python installed in your system.
+
+If not Installed/Downloaded, here are the links
+  MySQL- https://dev.mysql.com/downloads/installer/
+  Python - https://www.python.org/downloads/
+
+After Installing, Make changes in connector according to your MySQL username and password.
+
+After doing all the above Steps, YOU ARE GOOD TO GO. 👍
+
