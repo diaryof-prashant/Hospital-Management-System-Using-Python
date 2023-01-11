@@ -1,5 +1,5 @@
 # Hospital-Management-System-Using-Python
 A menu-driven H.M.S using python and MySQL. 
 
+![hospital-mangement-software](https://user-images.githubusercontent.com/65122711/211718646-2b258a4f-9124-4af2-ac70-c329486bc352.jpg)
 
-![image_2022-08-27_123937910](https://user-images.githubusercontent.com/65122711/187019335-3f74ec43-3f1d-4ef3-9374-a5d32de501b0.png)
